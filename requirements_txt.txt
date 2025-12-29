@@ -1,0 +1,19 @@
+# Core Dependencies
+streamlit==1.29.0
+python-dotenv==1.0.0
+
+# LangChain Ecosystem
+langchain==0.1.0
+langchain-openai==0.0.2
+langchain-core==0.1.10
+langgraph==0.0.20
+
+# API & HTTP
+requests==2.31.0
+
+# Image Processing (for future enhancements)
+Pillow==10.1.0
+
+# Optional: For local testing
+pytest==7.4.3
+pytest-cov==4.1.0
